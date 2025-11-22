@@ -31,7 +31,3 @@
 - **Backend:** Node.js + Express + Sequelize
 - **Database:** PostgreSQL (Neon.tech free tier)
 - **Hosting:** Vercel
-
----
-
-### Project Structure (Frontend)
